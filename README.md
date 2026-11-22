@@ -7,6 +7,12 @@ A Claude Code mod that puts a little gold pixel critter on a cloud in the row ju
 - The strip stretches to the width of the box, and the stars turn a deeper gold in light mode.
 - If your system asks for reduced motion, the scene holds still with the rider resting on the right.
 
+## Hide it
+
+Type `/rider` to hide the strip, and `/rider` again to bring it back. `/rider hide` and `/rider show` set it directly. It works while Claude is busy, and your choice holds in new sessions.
+
+## Where it shows
+
 It draws in the Claude desktop app, VS Code and the mobile app. The terminal doesn't draw pictures, so nothing shows there. It adds its own critter and leaves the app's built-in mascot as it is.
 
 ## Install
