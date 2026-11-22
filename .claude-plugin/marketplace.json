@@ -1,0 +1,6 @@
+{
+  "name": "gold-cloud-rider",
+  "description": "A Claude Code mod: a gold pixel critter riding a cloud across the stars above the message box.",
+  "owner": { "name": "r0yb0t1th3s3" },
+  "plugins": [{ "name": "gold-cloud-rider", "source": "./" }]
+}

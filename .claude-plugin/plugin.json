@@ -1,0 +1,8 @@
+{
+  "name": "gold-cloud-rider",
+  "version": "0.1.0",
+  "description": "A gold pixel critter riding a cloud back and forth across a strip of stars, just above the message box.",
+  "author": { "name": "r0yb0t1th3s3" },
+  "license": "MIT",
+  "repository": "https://github.com/r0yb0t1th3s3/gold-cloud-rider"
+}
